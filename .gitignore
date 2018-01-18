@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+.idea
+*.pyc
+__pycache__
+.cache
+classifier.py
